@@ -1,0 +1,184 @@
+Description
+
+As one of the primary means of interacting with our online world, keyboards are more than just a tool – they've become a personal expression. Until Neuralink becomes available, let's design a keyboard that we love to use every time!
+
+NextMech and I are excited to create a Nounish Mechanical Keyboard (MK) in collaboration with a top tier keyboard designers. With our internal MK knowledge and technical ability, we have planned a project that ultimately launches a Nouns sub-DAO for an enthusiastic subculture!
+
+Overview
+
+Over the years, an online subculture has emerged (partial MK ecosystem stats) that cherishes their custom keyboards as works of art. This community has developed its own workflow called the group buy, where artists share designs for collectors to pre-order. After pooling the funds, the designer approaches a vendor to manufacture and deliver the product. Similar to web3, projects are decentralized across social media and different websites, and they also have meetups around the world! Using the existing manufacturing infrastructure, we can improve the UX by utilizing NFTs, DAOs, and open-source software, to bridge the two communities!
+
+MK_meet[SF meet March 5th 2023 with a photoshoped Nouns MK - original photo]
+Other meetups can be seen by searching for "mechanical keyboard meet".
+
+Us
+
+NextMech and I (profish) began working on a project called Mechies which won a small prize in a 2022 Australian hackathon. We thought about MK NFTs in the form of generative art with manufacturable traits, DAOs as Vendors for group buys, hardware-embedded signatures, etc., to help improve the ecosystem. Then, at the beginning of this year, we were introduced to Gami through a buildoors group in Australia. He told us about the profound model of Nouns, and it quickly became clear that a collaboration would help proliferate the brand and support the MK subculture. His tremendous support and knowledge has helped shape a sustainable plan for this project!
+
+Nouns x MKs
+
+The proliferation synergizes immediately with existing channels. For example, the Nouns Esports team could incorporate the keycaps in their battle stations which would reach gaming spectators - expression of support have been made for collaboration. Or, Nouns keycaps can be given as POAPs to hackathon participants and winners, Nouns keyboards would be taken to keyboard meet ups around the world, photos of Nouns keyboards and keycaps will be showcased on popular online forum with millions of visitors, and so on. But we plan to go further than these channels and use Zora's Nouns Builder to create a MK DAO and continue to support MK enthusiasts!
+
+Future
+
+The MK DAO and the general infrastructure supported by this grant can become a platform that improves group buys for designers and collectors. Designers can leverage NFTs to offer their work as mints. They can go further by turning their existing Discord communities into DAOs, where the community can have greater input and ownership in the products they purchase. Also, the collectors who mint these designs benefit from the social media integration of NFTs, for better showcasing of their collections. In fact, we have already begun curating this platform by commissioning different MK artists in the current process, with many more collaborations in the pipeline!
+
+Also, a long-term experiment that we are considering involves addressing IP issues in the ecosystem. Designers face a challenge in protecting their intellectual property (IP) when running group buys. While stopping counterfeits for keycaps and general products is very difficult, authenticating the keyboards may be feasible. By using VIA, an open-source software integrated with all keyboards and working with manufacturers, we could link keyboards to NFTs for potentially increasing their social and monetary value for collectors.
+
+Summary Plan
+
+We will work with a top tier MK designer and manufacture the keyboards for the NFT minters. We aim to sell and manufacture 1-2k units with a unique marketing strategy that involves selling keycaps of various sorts to complement the keyboard. This provides an incentive for us to proliferate Nouns, reduce prices and gather foundational members for the MK DAO!
+
+Finally, the entirety of this project will be a great example of real-world adoption for NFTs, especially with the new EIPs for physical NFTs. It will be a major win for Nouns to be early and supportive of a devoted subculture that is growing! Take, for example, the subscriber count for the /r/MechanicalKeyboards subreddit:
+MK_subreddit_statsHere is a small data set that we have gathered on the ecosystem to provide more context.
+
+With that said, here is a simple cost breakdown to make it all possible. We have already begun tracking expenses in our Notion and will continue to do so for the rest of the project. If there is a surplus we will allocate to other productive activities that further the project. More detailed breakdown and Q&A at the end:
+
+52 ETH for manufacturing setup of however many mints but a guaranteed amount of 260 units including buffer, prototypes and YouTuber review units. With couple hundred spare keycap sets.
+10 ETH for assembling (80+ hours of labor), storage until redemption and safe high priority shipping.
+21.69 ETH for marketing of digital and physical assets including keycap airdrops of various different types.
+35 ETH for team and contractors, managing production, technical, graphics and starting/supporting the MK DAO.
+Total - 118.69 ETH
+
+Detailed Plan
+
+Custom keyboard manufacturing involves two main components: the case and keycap set. Switches and other components are also significant, but they are less customizable; therefore, we will simply use enthusiast-grade products. For a more detailed overview of mechanical keyboards, check out this intro made by NextMech.
+
+To start, a designer will incorporate the Nouns brand into the keyboard canvas. We are considering a collaboration with several designer who can create an aesthetic Nouns-themed keyboard. These designers can combine the MK culture and Nouns brand for a pleasing design. These include BIIP, NoPunIn10Did, sourmk, pikku-allu, dededecline who would be able to combine different themes into their work. Also, a design by a top artist plays a major role for introducing Nouns to the MK community, ensuring a high-quality product that enthusiasts will enjoy. Here are some of the works by the mentioned designers:
+
+biip_dots[BIIP Dots]
+Pikku_allu[Pikku Allu Symbiote]
+nopunin10did[nopunin10did DSS Late Harvet]
+sourmk_dandy[Sourmk Dandy]
+
+For manufacturing, our first choice is a company that builds based on their available catalog of cases and can also assist with packaging and shipping. However, for a better quality design, we are prepared to carry out a more bespoke model by working with different suppliers. NextMech has experience with both approaches and after accounting for trade-offs and constraints, we are confident on delivering a high quality product. The bespoke approach will start at a higher unit cost, but it's still within the financial plan. Also, it's well worth trading off additional costs for a better design!
+
+After finalizing the design, we will begin reviewing prototypes from the manufacturer(s) to confirm the colors and build quality. This will give us the confidence to replicate the design as an NFT, one that will be minted through after a project update. The mint will be priced at approximately 0.3-0.4 ETH depending on final unit cost and ETH price, with a discount for Nouns holders which brings price to near cost. It will have boolean-based redemption on nouns.mk since we don't want to burn the NFT so that it can be shared online, and also allows for over the air updates through VIA software.
+
+Prior to and during the minting of the NFTs, we will launch marketing efforts to increase the visibility of the project. Proliferating the brand through community activity which also aligns with our incentive to reduce unit costs. A portion of the mint will be used to help start the MK DAO built using Zora's Noun Builder. We will support the MK DAO by managing further collaboration and manufacturing processes. Also, in addition to the daily auctions for the DAO, people who participated in the physical marketing events will gain access some access to the DAO.
+
+You can start participating by minting the momento NFT where the glasses will be magnetic! Some participants will win this with their keyboard!
+noun_keycap_board
+
+The physical marketing is in the style of MK communities, which will be on in addition to the digital media marketing. We are working on various exciting strategies for minters; some include resin keycaps with 3D Nouns characters inside, two piece magnetic and modular keycaps, novelty keycaps with Nouns themes, high-quality metallic keycaps, a fully custom 1/1 keyboard made for auction, hackathon POAP keycaps redeemed in person and more MK designer and influencer collaborations! These will have various pricing mechanisms to maximize accessibility for collectors and start the MK DAO.
+
+Here are some examples (not a real design) of a Nouns keycap NFT for physical marketing, which can be redeemed in the same way as the main keyboard NFT. It's a great addition to the custom keyboard once it arrives, or it allows MK enthusiasts to join the community with their existing keyboard!
+
+noun_keycap_boardnoun_keycap_board[Not a real design, for conceptualization of single keycap only - by boardbay]
+
+Once manufacturing, assembly, and quality testing are complete, the NFTs can be redeemed. They will be stored with a distributor or manufacturer and can be redeemed at any time. It is possible to sell the NFTs prior to redeeming them.
+
+Current Progress
+
+All progress will be made public on our Notion page, where we keep info that is up to date. Here are some highlights from the current progress:
+
+Talking to two manufacturers and shared general idea to confirm production and timeline feasibility.
+In contact with mentioned designers and discussing collaboration terms.
+Quotes and plans on keycap marketing with various designers.
+Registered Nouns.mk, twitter account @nounsmk, nounsmk.eth and nounsmkdao.eth.
+Project outline and public workspace for the entirety of the project, with more details to be added as the project progresses.
+Team and our MKs!
+
+Profish (product): My past experience is software engineering work for crypto trading companies and tokenomic simulations in cadCAD. Also, as part of the DAO Under community, I've project managed the build of a DAO framework to support crypto builders in Australia.
+
+NextMech (MK expert): Michael runs a boutique custom MK business and has a deep understanding of the industry. Additionally, as a full-stack developer, he can effectively plan with the constraints of a physical NFT projects!
+
+Helping us will be Joy Chiang (artist): She has helped some of the most successful NFT projects in Australia and has a family of MK enthusiasts!
+
+team-MK
+
+Detailed Phases (8-12 months)
+
+These are the major phases in the project and the estimated timeline. The building and marketing phase will be ongoing as the keycaps are mini NFT projects for the community. Here is an early view of the timeline in our Notion, we will make it more accurate as we progress through the stages..
+
+Phase 1: Design
+
+Start momento manufacturing for two piece magnetic keycap
+Start commissions on physical marketing assets (1/1 keyboards, keycaps, NFC keycap, designer collab, keyboard head nouns for MK DAO, etc.)
+Work with designer to finalize design (also communicating with manufacturer for feasibility)
+Replicate keyboard design as an NFT
+Update Nouns.mk with final design and soft launch
+Update task board and add more detailed overview given new information
+Phase 2: Marketing
+
+Release mint of redeemable keyboard NFT
+Digital marketing assets based on keyboard design
+Continuation of physical marketing
+Gather designers and collectors for MK DAO
+Phase 3: Build
+
+Nouns.mk update for redemption process and collection view
+Ongoing build of NFT smart contract for physical marketing assets
+Beginning MK DAO design and implementation for existing community
+Exploring VIA experiment for 1/1 keyboard
+Phase 4: Delivery
+
+Manufactured, packaged and begin shipping for redemption
+Online launch events and plan in person launch event
+Small gatherings at existing MK meetups and crypto conferences
+Launching MK DAO
+timeline
+
+Detailed Costs (8-12 month project)
+
+These are the costs with a small margin of error to account for challenges that arise during physical goods manufacturing. But we aim to be efficient and transparent with the budget in our Notion. The ETH is transferred to mechies.eth which has 3/4 threshold including Profish, NextMech, Zaak (from Zora) and Gami.
+
+Manufacturing - 52 ETH
+
+Tooling setup for a minimum of 200 units at approx. 400 USD depending on design complexity. Aiming for 1-2k units to reduce unit cost to 300.
+100-200 keycap sets only for future sale.
+15% supply buffer for quality control issues (but they will be available for selling when we see that there are no issues with the supply)
+4 units for prototypes 0.7 ETH each (including shipping)
+Tooling setup for manufacturing (case layout, colours, materials, testing, handling supply chain, etc)
+Post manufacturing processes such as etching, quality checks, and assembling
+Remaining parts such as PCBs, switches, frames, screws, badges, etc.
+Delivery - 10 ETH
+
+Assembling and Packaging
+Storing in warehouse until shipment
+Shipping with insurance (priority DHL for example) in case of damages or lost property so we can compensate the NFT holder or retry
+Marketing - 21.69 ETH
+
+Digital assets such as videos, gifs, 3D renders for social media
+Manufacturing cost of physical marketing assets for give away and raffles
+100 to 200 super custom keycaps: 3D resin, 2 piece keycaps, handmade interactive keycaps, etc.
+400 to 600 Artisan keycaps: basic metallic, infill metallic, plastic, basic resin, CNC etc.
+1/1 fully custom keyboard to be auctioned
+Simple keycaps and NFC chipped keycaps as POAPs for hackathons
+Novelty keys for the main keycap set
+Marketing units sent to YouTube and twitch influencers for review
+Misc: post manufacturing skins, digital art commission, social media posts, etc.
+Hosting launch event and keyboard meetups
+Team - 35 ETH
+
+16 ETH - Managing the project across manufacturing, marketing, tech, admin, community, subcontractors, delivery, etc.
+7 ETH - Website development and tech infrastructure for minting and collecting, open source forks such as Builder DAO and VIA
+6 ETH - Designer commissions for MK design and manufacturing spec (CAD files)
+4 ETH - graphics, branding assets and website design
+2 ETH - misc fees such as gas, spreads, SAAS services, smart contracts, retro costs etc.
+Total - 118.69 ETH
+
+MK_heads[potential auction art for MK DAO - by instagram@keebpixel artist]
+
+Short Q&A
+
+How much is the NFT mint? Approximately 0.3-0.4 ETH. Nouns holders will receive a discount which brings the price close to cost. We aim to make it affordable by keeping manufacturing reasonable and reduce margin by increasing units. The marketing assets will vary in the form of free, free mint-to-win, at cost, at profit, auctions, free scan to keep and more.
+How expensive are MKs? Custom mechanical keyboards by reputable designers can go upwards of 800-1000 USD. Production is constrained due to the tooling overhaul process, which makes the product rare. Also, NFT feature on top add to that value as we experiment with VIA.
+How does the redemption work? Sharing pictures of MKs online is important, and having an NFT to share is even better. Once you redeem, the NFT becomes non-transferable. Also, it allows for over the air updates through the VIA software for lighting, macros, sounds, etc.
+Will the keyboards be assembled? It is common for the manufacturer to send unassembled keyboards. Assembly is quite easy, as all the components are plug-ins, so if they don't assemble it, we will either work with a distributor or assemble them ourselves. We are even considering an option where the NFT holder can chose between these two options, since the assembling process is part of the experience. However, it's too early to tell if that will be possible.
+How long does it take to deliver? Usually around 10-12 months from the proposal passing to delivery. Keycap sets can sometimes take up to 3 years to deliver, but we are going to make sure that doesn't happen. Also, we think we can shorten this time for future iterations in the MK DAO.
+How big is the MK community? You'd be surprised who likes MK since it doesn't come up in conversation. The forums and Discord servers of designers are similar to or, bigger in size and activity compared to crypto communities. Although, it is pretty scattered online, but I have made a spreadsheet here to provide some context.
+Will there be a sub DAO? We aim to start one, since there is so much you can do as a community. For example, new keycap styles come out every year, so the DAO can continue commissioning collabs with any theme. We will airdrop supporters, including Nouns to join the MK DAO.
+nouns_MK_samples[illustration renders of keyboard designs]
+
+Relevant links
+
+Project Notion: https://mechies.notion.site/Enter
+Nouns MK site: nouns.mk
+Nouns MK twitter: twitter.com/nounsmk
+Twitter: twitter.com/mechiesnft
+Next.Mech: instagram.com/next.mech/
+Intro to Mechanical Keyboards: drive.google.com/file/d/mk_intro
+Small view of the MK landscape: https://docs.google.com/spreadsheets/d/mk_eco_data
+Twitter search for Mechanical Keyboard Meetups: meetup tweets
+nouns_MK_samples[illustration render of keyboard components]
